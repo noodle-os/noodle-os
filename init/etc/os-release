@@ -1,0 +1,5 @@
+NAME="NoodleOS"
+PRETTY_NAME="NoodleOS"
+ID=noodle-os
+VERSION_ID="1.0"
+HOME_URL="https://github.com/noodle-os"
