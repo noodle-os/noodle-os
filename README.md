@@ -3,7 +3,7 @@
 Noodle OS is a lightweight and minimal operating system designed for simplicity and efficiency.
 
 ## Features
-- Small file size(5mb)
+- Small file size(4.4MB)
 - Lightweight package manager
 - Customizable and modular
 - Strong community support
