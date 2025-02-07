@@ -10,7 +10,6 @@ Noodle OS is a lightweight and minimal operating system designed for simplicity 
 
 ## Download
 [Get Noodle OS Latest Release](https://github.com/noodle-os/noodle-os/releases/latest/download/NoodleOS.iso)  
-[Get Noodle OS Latest Pre-Release](https://github.com/noodle-os/noodle-os/raw/refs/heads/main/bin/NoodleOS.iso)
 
 ## Contributing
 Pull requests are welcome! Feel free to submit issues or suggestions.
