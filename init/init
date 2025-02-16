@@ -9,6 +9,9 @@ mount -t proc none /proc      # ps
 mount -t sysfs none /sys      # sys/class/net/eth0
 mount -t devtmpfs none /dev   # dev/urandom (https)
 
+# Start mdev
+mdev -s
+
 # Setup Static IP
 ifconfig eth0 10.0.2.15
 route add default gw 10.0.2.2
